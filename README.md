@@ -1,5 +1,7 @@
-## Front-End
+# Como executar o projeto
 
+## Front-End
+```npm install```
 ```npm run dev```
 
 ### Back-End
