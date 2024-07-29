@@ -4,4 +4,4 @@
 
 ### Back-End
 
-````npx json-server --watch db.json --port 5000 ```
+```npx json-server --watch db.json --port 5000 ```
