@@ -1,0 +1,16 @@
+nav {
+    background-color: black;
+    padding: 20px 30px;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+a:hover {
+    color: lightgray;
+    text-decoration: underline;
+}

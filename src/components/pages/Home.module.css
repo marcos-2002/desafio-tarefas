@@ -1,0 +1,38 @@
+div.principal {
+    padding: 30px;
+}
+
+div.principal h1 {
+    padding-bottom: 30px;
+}
+
+div.tarefa {
+    border: 1px solid black;
+    width: 250px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+div.tarefaNaoConcluida {
+    background-color: rgba(255, 255, 0, 0.322);
+}
+
+div.tarefaConcluida {
+    border: 1px solid black;
+    width: 250px;
+    display: inline-block;
+    margin-right: 20px;
+    background-color: rgba(0, 128, 0, 0.5);
+}
+
+div.tarefa p {
+    padding: 20px;
+    background-color: rgba(255, 255, 0, 0.212);
+    font-size: 23px;
+}
+
+div.tarefa form {
+    padding: 20px;
+    font-size: 18px;
+}
